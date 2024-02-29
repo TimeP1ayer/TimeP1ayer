@@ -23,11 +23,30 @@ Here are some ideas to get you started:
 
 我是黄俊杰，目前就读于广东工业大学计算机学院软件工程专业。
 
-_My interest_：游戏，美食，黑暗系故事，暹罗猫
+_💡My interest_：游戏，美食，黑暗系故事，暹罗猫
 
-_Have Been Visited_：香港，澳门，福建，广西，江西，上海，浙江，江苏，四川，重庆，湖南
+_✈Have Been Visited_：香港，澳门，福建，广西，江西，上海，浙江，江苏，四川，重庆，湖南
+
+<div align=center>
+  <img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/cab57cc1-1321-464b-98a2-d3d7dde9fcfd" alt="图片无法加载" width="22%;" />
+  <img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/0a2060e6-e250-48cd-84ac-1d942053f337" alt="图片无法加载" width="22%;" />
+  <img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/75c7ab23-6a21-4c19-b35a-32061fbe49ae" alt="图片无法加载" width="22%;" />
+<div>
+
+<div align=center>    
+<img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/abbb3b6d-cbf7-4ddc-a7ff-46afac24c70d" alt="图片无法加载" width="22%;" />
+<img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/61aa6f37-83d6-4772-954c-b24432d12f69" alt="图片无法加载" width="22%;" />
+<img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/ccba2d57-ea1b-4321-a031-660f95e6098b" alt="图片无法加载" width="22%;" />
+<div>
+
+<div align=center>    
+<img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/e5eaa0b4-9a34-47c7-becb-cee47a0bdbd4" alt="图片无法加载" width="22%;" />
+<img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/bb1c2058-1250-42ba-8b89-b2463395113e" alt="图片无法加载" heigh = "50" width="22%;" />
+<img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/de6919a3-4e28-4f36-a4be-24f72d661aa0" alt="图片无法加载" width="22%;" />
+<div>
 
 ********
+<div align=left>    
 
 ### 五问
 
@@ -43,3 +62,4 @@ _Have Been Visited_：香港，澳门，福建，广西，江西，上海，浙�
 
 1. 团队编写软件的方式与提升团队编写代码效率的方法
 2. 软件文档的编写，维护和软件的增量式开发
+<div>
