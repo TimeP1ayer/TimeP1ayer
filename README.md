@@ -28,9 +28,9 @@ _💡My interest_：游戏，美食，黑暗系故事，暹罗猫
 _✈Have Been Visited_：香港，澳门，福建，广西，江西，上海，浙江，江苏，四川，重庆，湖南
 
 <div align=center>
-  <img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/cab57cc1-1321-464b-98a2-d3d7dde9fcfd" alt="图片无法加载" width="22%;" />
-  <img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/0a2060e6-e250-48cd-84ac-1d942053f337" alt="图片无法加载" width="22%;" />
-  <img src="https://github.com/TimeP1ayer/TimeP1ayer/assets/117495185/75c7ab23-6a21-4c19-b35a-32061fbe49ae" alt="图片无法加载" width="22%;" />
+  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229185835476-339893954.jpg" alt="图片无法加载" width="22%;" />
+  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229185956697-670337306.jpg" alt="IMG_20230501_191449" alt="图片无法加载" width="22%;" />
+  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229190037231-2142680468.jpg" alt="IMG_20230501_191449" alt="图片无法加载" width="22%;" />
 <div>
 
 <div align=center>    
