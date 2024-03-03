@@ -28,15 +28,15 @@ _💡My interest_：游戏，美食，黑暗系故事，暹罗猫
 _✈Have Been Visited_：香港，澳门，福建，广西，江西，上海，浙江，江苏，四川，重庆，湖南
 
 <div align=center>
-  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229185835476-339893954.jpg" alt="图片无法加载" width="22%;" />
-  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229185956697-670337306.jpg"  alt="图片无法加载" width="22%;" />
-  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229190037231-2142680468.jpg"  alt="图片无法加载" width="22%;" />
+  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229185835476-339893954.jpg" alt="图片无法加载时请点击大图查看" width="22%;" />
+  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229185956697-670337306.jpg"  alt="图片无法加载时请点击大图查看" width="22%;" />
+  <img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229190037231-2142680468.jpg"  alt="图片无法加载时请点击大图查看" width="22%;" />
 <div>
 
 <div align=center>    
-<img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229190113549-1443893307.jpg" alt="图片无法加载" width="22%;" />
-<img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229190402711-1406266638.jpg" alt="图片无法加载" width="22%;" />
-<img src="https://img2024.cnblogs.com/blog/3398168/202403/3398168-20240303124311836-1595841937.jpg"  alt="图片无法加载" width="22%;" />
+<img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229190113549-1443893307.jpg" alt="图片无法加载时请点击大图查看" width="22%;" />
+<img src="https://img2024.cnblogs.com/blog/3398168/202402/3398168-20240229190402711-1406266638.jpg" alt="图片无法加载时请点击大图查看" width="22%;" />
+<img src="https://img2024.cnblogs.com/blog/3398168/202403/3398168-20240303124311836-1595841937.jpg"  alt="图片无法加载时请点击大图查看" width="22%;" />
 <div>
 
 
