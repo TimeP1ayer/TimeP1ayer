@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Introduce
 
-Currently studying Software Engineering at the School of Computer Science, Guangdong University of Technology.
+Graduate in Software Engineering from the School of Computer Science, Guangdong University of Technology.
 
 _💡My interests_: e-Games, delicacy, Dark-themed story, Siamese cats
 
